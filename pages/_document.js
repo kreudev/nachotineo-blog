@@ -3,13 +3,13 @@ import { Analytics } from '@vercel/analytics/react';
 
 export default function Document() {
   const meta = {
-    title: "Demo blog create by Nacho Tineo",
-    description: "Clone and deploy your own Next.js-powered portfolio in minutes.",
-    image: "https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png",
+    title: "Blog by Nacho Tineo",
+    description: "Explora el apasionante mundo de la tecnología y el software aquí, un espacio creado por un programador para programadores. Descubre análisis detallados, tutoriales prácticos y las últimas tendencias en desarrollo de software. Mejora tus habilidades mientras exploras temas como optimización de código, mejores prácticas y tecnologías emergentes. ¡Desarrolla tu conocimiento y creatividad en el mundo del desarrollo de software!",
+    image: "/nachotineo_icon.png",
   };
 
   return (
-    <Html lang="en">
+    <Html lang="es">
       <Head>
         <meta name="robots" content="follow, index" />
         <meta name="description" content={meta.description} />
