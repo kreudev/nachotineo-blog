@@ -321,6 +321,13 @@
     "@typescript-eslint/types" "5.62.0"
     "eslint-visitor-keys" "^3.3.0"
 
+"@vercel/analytics@^1.1.1":
+  "integrity" "sha512-+NqgNmSabg3IFfxYhrWCfB/H+RCUOCR5ExRudNG2+pcRehq628DJB5e1u1xqwpLtn4pAYii4D98w7kofORAGQA=="
+  "resolved" "https://registry.npmjs.org/@vercel/analytics/-/analytics-1.1.1.tgz"
+  "version" "1.1.1"
+  dependencies:
+    "server-only" "^0.0.1"
+
 "acorn-jsx@^5.0.0", "acorn-jsx@^5.3.2":
   "integrity" "sha512-rq9s+JNhf0IChjtDXxllJ7g41oZk5SlXtp0LHwyA5cejwn7vKmKp4pPri6YEePv2PU65sAsegbXtIinmDFDXgQ=="
   "resolved" "https://registry.npmjs.org/acorn-jsx/-/acorn-jsx-5.3.2.tgz"
@@ -3607,6 +3614,11 @@
   "version" "7.5.4"
   dependencies:
     "lru-cache" "^6.0.0"
+
+"server-only@^0.0.1":
+  "integrity" "sha512-qepMx2JxAa5jjfzxG79yPPq+8BuFToHd1hm7kI+Z4zAq1ftQiP7HcxMhDDItrbtwVeLg/cY2JnKnrcFkmiswNA=="
+  "resolved" "https://registry.npmjs.org/server-only/-/server-only-0.0.1.tgz"
+  "version" "0.0.1"
 
 "set-function-length@^1.1.1":
   "integrity" "sha512-VoaqjbBJKiWtg4yRcKBQ7g7wnGnLV3M8oLvVWwOk2PdYY6PEFegR1vezXR0tw6fZGF9csVakIRjrJiy2veSBFQ=="

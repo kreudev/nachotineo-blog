@@ -7,9 +7,10 @@
     "build": "pnpm feed && next build",
     "start": "next start",
     "lint": "next lint",
-    "feed":"node scripts/gen-rss.js"
+    "feed": "node scripts/gen-rss.js"
   },
   "dependencies": {
+    "@vercel/analytics": "^1.1.1",
     "autoprefixer": "^10.4.13",
     "gray-matter": "4.0.3",
     "next": "13.1.1",
