@@ -2,24 +2,15 @@ import { useRouter } from 'next/router'
 import { useConfig } from 'nextra-theme-blog'
 
 export default {
-  head: () => {
-    const { asPath, defaultLocale, locale } = useRouter()
-    const { frontMatter } = useConfig()
-    const url =
-      'https://blog.nachotineo.com' +
-      (defaultLocale === locale ? asPath : `/${locale}${asPath}`)
- 
-    return (
-      <>
-        <meta property="og:url" content={url} />
-        <meta property="og:title" content={frontMatter.title || 'Titulo nachito'} />
-        <meta
-          property="og:description"
-          content={frontMatter.description || 'Descripcion nachito'}
-        />
-      </>
-    )
-  },
+  head: ({ title, meta }) => (
+    <>
+      {meta.description && (
+        <meta name="description" content={meta.description} />
+      )}
+      {meta.tag && <meta name="keywords" content={meta.tag} />}
+      {meta.author && <meta name="author" content={meta.author} />}
+    </>
+  ),
   comments: (
     <>
     <div className="w-5/6 mx-auto" dangerouslySetInnerHTML={{ __html: '<script src="https://giscus.app/client.js" data-repo="kreudev/nachotineo-blog" data-repo-id="R_kgDOKs6V8w" data-category="Q&A" data-category-id="DIC_kwDOKs6V884Ca6uN" data-mapping="pathname" data-strict="1" data-reactions-enabled="1" data-emit-metadata="0" data-input-position="top" data-theme="preferred_color_scheme" data-lang="es" data-loading="lazy" crossorigin="anonymous" async></script>' }}>
