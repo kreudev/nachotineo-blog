@@ -28,7 +28,7 @@ export default {
   navs: [
     {
       url: "https://nachotineo.com/",
-      name: "Volver 🔙",
+      name: "👨🏻 Página principal",
       "newWindow": true
     },
   ],
