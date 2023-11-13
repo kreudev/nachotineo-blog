@@ -7,7 +7,7 @@ export default {
   ),
   footer: (<div className="my-24  border-t-2  mx-auto flex items-center sm:flex-row flex-col">
       <p className="text-sm text-gray-500">© By Nacho Tineo  —
-        <a href="https://nachotineo.com/" className="text-gray-600" rel="noopener noreferrer" target="_blank"> @nachotineo</a>
+        <a href="https://nextra.site/" className="text-gray-600" rel="noopener noreferrer" target="_blank"> Built with Nextra</a>
       </p>
       <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
         

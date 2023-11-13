@@ -4,64 +4,17 @@
         <description><![CDATA[Nacho Tineo -- Blog]]></description>
         <link>https://blog.nachotineo.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Nov 2023 15:48:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 20:14:08 GMT</lastBuildDate>
         <atom:link href="https://blog.nachotineo.com/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[5 Reasons Why You Shouldn't Learn Photography On Your Own.]]></title>
-            <description><![CDATA[Mollit aute nostrud voluptate amet irure consectetur commodo cupidatat elit. Non ut dolor nulla dolor duis. Anim eiusmod fugiat eiusmod ut nulla nulla labore.]]></description>
-            <link>/posts/5-reasons-why-you-shouldn&apos;t-learn-photography-on-your-own</link>
-            <guid isPermaLink="true">/posts/5-reasons-why-you-shouldn&apos;t-learn-photography-on-your-own</guid>
-            <category><![CDATA[Photography]]></category>
-            <dc:creator><![CDATA[Jeanne Ballard]]></dc:creator>
-            <pubDate>Wed, 09 Nov 2022 08:18:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[7 Useful Tips From Python Experts In Programming]]></title>
-            <description><![CDATA[Eiusmod quis esse aliqua sit nostrud aliquip sunt minim irure laboris reprehenderit irure ex.]]></description>
-            <link>/posts/7-useful-tips-from-python-experts-in-programming</link>
-            <guid isPermaLink="true">/posts/7-useful-tips-from-python-experts-in-programming</guid>
-            <category><![CDATA[Programming ]]></category>
-            <category><![CDATA[ Python ]]></category>
-            <category><![CDATA[ Tips]]></category>
-            <dc:creator><![CDATA[Jeanne Ballard]]></dc:creator>
-            <pubDate>Thu, 10 Nov 2022 07:47:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Draft article]]></title>
-            <description><![CDATA[Mollit aute nostrud voluptate amet irure consectetur commodo cupidatat elit. Non ut dolor nulla dolor duis. Anim eiusmod fugiat eiusmod ut nulla nulla labore.]]></description>
-            <link>/posts/draft-article</link>
-            <guid isPermaLink="true">/posts/draft-article</guid>
-            <category><![CDATA[draft]]></category>
-            <pubDate>Wed, 09 Nov 2022 08:18:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Markdown Examples]]></title>
-            <description><![CDATA[View examples of all possible Markdown options.]]></description>
-            <link>/posts/markdown</link>
-            <guid isPermaLink="true">/posts/markdown</guid>
-            <category><![CDATA[web development]]></category>
-            <dc:creator><![CDATA[You]]></dc:creator>
-            <pubDate>Thu, 18 Mar 2021 23:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Five Secrets You Will Never Know About Blogging]]></title>
-            <description><![CDATA[Non aute adipisicing anim enim et proident proident consectetur est laborum tempor.]]></description>
-            <link>/posts/five-secrets-you-will-never-know-about-blogging</link>
-            <guid isPermaLink="true">/posts/five-secrets-you-will-never-know-about-blogging</guid>
-            <category><![CDATA[Blog ]]></category>
-            <category><![CDATA[ five ]]></category>
-            <category><![CDATA[ Secrets]]></category>
+            <title><![CDATA[Optimización de Código, Estrategias para Eliminar Code Smells y Mejorar la Mantenibilidad del Software]]></title>
+            <description><![CDATA[Descubre cómo mejorar la calidad de tu código y la mantenibilidad de tu software con nuestras estrategias de optimización. Exploraremos cómo eliminar Code Smells, abordar duplicaciones, reducir la complejidad, y optimizar tu código para un desarrollo más eficiente. Aprende las mejores prácticas que transformarán tu programación y fortalecerán la base de tus proyectos. ¡Optimiza hoy para un mañana sin complicaciones!]]></description>
+            <link>/posts/optimizacion-de-codigo-estrategias-para-eliminar-code-smells-y-mejorar-la-mantenibilidad-del-software.mdx</link>
+            <guid isPermaLink="true">/posts/optimizacion-de-codigo-estrategias-para-eliminar-code-smells-y-mejorar-la-mantenibilidad-del-software.mdx</guid>
+            <category><![CDATA[Javascript]]></category>
+            <category><![CDATA[ Refactoring]]></category>
             <dc:creator><![CDATA[Nacho Tineo]]></dc:creator>
-            <pubDate>Tue, 22 Nov 2022 07:20:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Next.js Pages]]></title>
-            <description><![CDATA[Learn more about Next.js pages.]]></description>
-            <link>/posts/pages</link>
-            <guid isPermaLink="true">/posts/pages</guid>
-            <category><![CDATA[web development]]></category>
-            <dc:creator><![CDATA[You]]></dc:creator>
-            <pubDate>Thu, 13 Oct 2022 22:00:00 GMT</pubDate>
+            <pubDate>Mon, 10 Apr 2023 08:18:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
