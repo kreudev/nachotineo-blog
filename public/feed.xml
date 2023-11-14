@@ -4,7 +4,7 @@
         <description><![CDATA[Explora el apasionante mundo de la tecnología y el software aquí, un espacio creado por un programador para programadores. Descubre análisis detallados, tutoriales prácticos y las últimas tendencias en desarrollo de software. Mejora tus habilidades mientras exploras temas como optimización de código, mejores prácticas y tecnologías emergentes. ¡Desarrolla tu conocimiento y creatividad en el mundo del desarrollo de software!]]></description>
         <link>https://blog.nachotineo.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Nov 2023 21:50:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 21:53:23 GMT</lastBuildDate>
         <atom:link href="https://blog.nachotineo.com/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Cómo Crear Tu Propio Paquete NPM en JavaScript, Guía con Ejemplo Práctico]]></title>
@@ -16,7 +16,7 @@
             <category><![CDATA[ Tutoriales]]></category>
             <category><![CDATA[ Programación]]></category>
             <dc:creator><![CDATA[Nacho Tineo]]></dc:creator>
-            <pubDate>Mon, 10 Jul 2023 08:18:10 GMT</pubDate>
+            <pubDate>Sun, 23 Jul 2023 08:18:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Optimización de Código, Estrategias para Eliminar Code Smells y Mejorar la Mantenibilidad del Software]]></title>
