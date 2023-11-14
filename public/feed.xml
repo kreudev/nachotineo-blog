@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[Nacho Tineo -- Blog]]></title>
-        <description><![CDATA[Nacho Tineo -- Blog]]></description>
+        <description><![CDATA[Explora el apasionante mundo de la tecnología y el software aquí, un espacio creado por un programador para programadores. Descubre análisis detallados, tutoriales prácticos y las últimas tendencias en desarrollo de software. Mejora tus habilidades mientras exploras temas como optimización de código, mejores prácticas y tecnologías emergentes. ¡Desarrolla tu conocimiento y creatividad en el mundo del desarrollo de software!]]></description>
         <link>https://blog.nachotineo.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Nov 2023 20:43:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 21:50:53 GMT</lastBuildDate>
         <atom:link href="https://blog.nachotineo.com/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cómo Crear Tu Propio Paquete NPM en JavaScript, Guía con Ejemplo Práctico]]></title>
+            <description><![CDATA[Aprende a desarrollar y publicar un paquete NPM en JavaScript. Incluye un ejemplo práctico para generar números aleatorios entre dos cifras. Ideal para principiantes y desarrolladores que buscan ampliar sus habilidades.]]></description>
+            <link>/posts/como-crear-tu-primer-paquete-npm-en-javascript-una-guia-paso-a-paso-con-ejemplos-practicos</link>
+            <guid isPermaLink="true">/posts/como-crear-tu-primer-paquete-npm-en-javascript-una-guia-paso-a-paso-con-ejemplos-practicos</guid>
+            <category><![CDATA[Javascript]]></category>
+            <category><![CDATA[ NPM]]></category>
+            <category><![CDATA[ Tutoriales]]></category>
+            <category><![CDATA[ Programación]]></category>
+            <dc:creator><![CDATA[Nacho Tineo]]></dc:creator>
+            <pubDate>Mon, 10 Jul 2023 08:18:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Optimización de Código, Estrategias para Eliminar Code Smells y Mejorar la Mantenibilidad del Software]]></title>
             <description><![CDATA[Descubre cómo mejorar la calidad de tu código y la mantenibilidad de tu software con nuestras estrategias de optimización. Exploraremos cómo eliminar Code Smells, abordar duplicaciones, reducir la complejidad, y optimizar tu código para un desarrollo más eficiente. Aprende las mejores prácticas que transformarán tu programación y fortalecerán la base de tus proyectos. ¡Optimiza hoy para un mañana sin complicaciones!]]></description>
